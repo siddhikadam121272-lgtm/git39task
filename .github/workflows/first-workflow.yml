@@ -1,4 +1,4 @@
-name: First GitHub Actions Workflow
+name: First GitHub Actions  Workflow
 
 on:
   workflow_dispatch:
